@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: Powerhome Services | Inicio
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
