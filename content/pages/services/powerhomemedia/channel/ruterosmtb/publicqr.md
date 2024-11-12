@@ -6,7 +6,9 @@ sections:
     colors: colors-f
     variant: variant-a
     title: QR Ruteros MTB
-    subtitle: The section subtitle
+    subtitle: >-
+      Gracias por Escanear este Código Qr. Ya puedes acceder a todos nuestros
+      Videos!
     text: >-
       Start adding sections by clicking the + button on the page or through the
       sidebar.
