@@ -9,9 +9,9 @@ sections:
     subtitle: >-
       Gracias por Escanear este Código Qr. Ya puedes acceder a todos nuestros
       Videos!
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      [Ver Videos
+      ](https://powerhomeservices.odoo.com/services/powerhomemedia/channel/ruterosmtb)
     elementId: ''
     styles:
       self:
