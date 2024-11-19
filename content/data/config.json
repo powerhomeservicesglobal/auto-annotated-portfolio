@@ -3,7 +3,7 @@
     "favicon": "/images/logo.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": false,
         "title": "",
         "isTitleVisible": false,
