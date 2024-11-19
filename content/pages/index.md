@@ -51,7 +51,7 @@ sections:
       - type: Button
         label: Comenzar
         altText: ''
-        url: /
+        url: /services
         showIcon: true
         icon: arrowRight
         iconPosition: right
