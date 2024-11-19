@@ -49,7 +49,7 @@ sections:
       Utiliza nuestros Productos y Servicios Gratis y Sin Anuncios
     actions:
       - type: Button
-        label: Try it now
+        label: Comenzar
         altText: ''
         url: /
         showIcon: true
