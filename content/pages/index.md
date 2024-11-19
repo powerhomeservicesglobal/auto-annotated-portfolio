@@ -60,7 +60,7 @@ sections:
       - type: Link
         label: 'Más Información '
         altText: ''
-        url: /
+        url: /about
         showIcon: true
         icon: arrowRight
         iconPosition: right
