@@ -86,4 +86,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+socialImage: /images/logo.png
 ---
