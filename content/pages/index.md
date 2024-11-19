@@ -58,7 +58,7 @@ sections:
         style: primary
         elementId: ''
       - type: Link
-        label: Learn more
+        label: 'Más Información '
         altText: ''
         url: /
         showIcon: true
