@@ -6,7 +6,7 @@
         "headerVariant": "variant-c",
         "isSticky": false,
         "title": "Inicio",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [],
         "socialLinks": [],
         "styles": {
