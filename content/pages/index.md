@@ -45,9 +45,8 @@ sections:
     actions: []
   - type: CtaSection
     title: Productos y Servicios
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Utiliza nuestros Productos y Servicios Gratis y Sin Anuncios
     actions:
       - type: Button
         label: Try it now
