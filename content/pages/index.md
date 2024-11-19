@@ -34,7 +34,7 @@ sections:
         flexDirection: row-reverse
         borderRadius: xx-small
       title:
-        textAlign: left
+        textAlign: center
       subtitle:
         textAlign: left
       text:
